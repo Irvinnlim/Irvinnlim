@@ -33,7 +33,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :hammer_and_wrench: Languages and Tools :
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,jquery,react,next,tailwind,materialui,nodejs,express,django,mongodb,postgres,mysql,threejs,aws,firebase,vite,vercel,linux,vscode,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,jquery,react,next,bootstrap,tailwind,materialui,nodejs,express,django,mongodb,postgres,mysql,threejs,aws,firebase,vite,vercel,linux,vscode,git,github" />
   </a>
 </p>
 
