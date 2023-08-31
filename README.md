@@ -24,7 +24,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Singapore.
 
 - 🔭 I’m currently working on `Upskilling Myself`.
-- 🌱 I’m learning `Typescript`.
+- 🌱 I’m learning `Golang`.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/irvinnlim/)
 - ⚡ Visit my portfolio site: https://irvinnlim.com/
 
